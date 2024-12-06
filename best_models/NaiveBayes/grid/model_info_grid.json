@@ -1,0 +1,1 @@
+{"accuracy": 0.8586956521739131, "params": {"priors": null, "var_smoothing": 1e-09}, "scenario": "./Scenarios/dataset_scenario_1_N.csv"}

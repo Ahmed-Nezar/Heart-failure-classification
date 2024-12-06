@@ -1,0 +1,1 @@
+{"accuracy": 0.8260869565217391, "params": {"criterion": "entropy", "max_depth": 5, "min_samples_split": 8, "min_samples_leaf": 1}, "scenario": "./Scenarios/dataset_scenario_4_N.csv"}

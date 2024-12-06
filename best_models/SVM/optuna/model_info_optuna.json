@@ -1,0 +1,1 @@
+{"accuracy": 0.9021739130434783, "params": {"C": 2.15593571305865, "gamma": 0.41612123966837666, "kernel": "poly"}, "scenario": "./Scenarios/dataset_scenario_1_N.csv"}

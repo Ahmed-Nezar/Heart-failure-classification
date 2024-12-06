@@ -1,0 +1,1 @@
+{"accuracy": 0.8913043478260869, "params": {"weights": "distance", "n_neighbors": 9, "metric": "manhattan"}, "scenario": "./Scenarios/dataset_scenario_8_S.csv"}
