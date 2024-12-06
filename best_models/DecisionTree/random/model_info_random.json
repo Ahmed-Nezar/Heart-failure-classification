@@ -1,1 +1,1 @@
-{"accuracy": 0.8152173913043478, "params": {"min_samples_split": 2, "min_samples_leaf": 1, "max_depth": null, "criterion": "entropy"}, "scenario": "./Scenarios/dataset_scenario_4_S.csv"}
+{"accuracy": 0.8260869565217391, "params": {"min_samples_split": 2, "min_samples_leaf": 1, "max_depth": 30, "criterion": "log_loss"}, "scenario": "./Scenarios/dataset_scenario_8_S.csv"}
