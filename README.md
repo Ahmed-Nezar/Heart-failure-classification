@@ -142,9 +142,9 @@ Metrics used to evaluate models:
 
 ## Authors
 
-- Ahmed Nezar Ahmed  
-- AbdulRahman Hesham Kamel  
-- Kirollos Ehab Magdy
+- [Ahmed Nezar Ahmed](https://github.com/Ahmed-Nezar)  
+- [AbdulRahman Hesham Kamel](https://github.com/AHKSASE2002)  
+- [Kirollos Ehab Magdy](https://github.com/KirollosEMH)
 
 ---
 
